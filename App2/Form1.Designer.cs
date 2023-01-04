@@ -67,7 +67,7 @@ namespace App2
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(249, 83);
+            this.label1.Location = new System.Drawing.Point(255, 83);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(33, 12);
             this.label1.TabIndex = 3;
